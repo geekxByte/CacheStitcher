@@ -2,8 +2,6 @@
 
 _CacheStitcher_ is a tool that supports forensic analysts in reconstructing useful images out of RDP cache bitmaps. Using raw RDP cache tile bitmaps extracted by tools like e.g. ANSSI's _BMC-Tools_ (https://github.com/ANSSI-FR/bmc-tools) as input, it provides a graphical user interface and several placement heuristics for stitching tiles together so that meaningful images or even full screenshots can be reconstructed.
 
-![CacheStitcher GUI](screenshot.jpg)
-
 ## Features
 
 * Show hints where a selected tile might fit best visually
@@ -17,11 +15,11 @@ _CacheStitcher_ is a tool that supports forensic analysts in reconstructing usef
 
 ## Manual
 
-A complete manual with a description of all features and the workflow for a typical use case can be found in the document [CacheStitcher_manual.pdf](CacheStitcher_manual.pdf).
+A complete manual with a description of all features and the workflow for a typical use case can be found in the document
 
 ## Installing prerequisites and starting CacheStitcher
 
-You can download prebuilt binaries of _CacheStitcher_ for 64bit Linux and Windows at https://github.com/BSI-Bund/CacheStitcher/releases/. For each system you have to install one necessary prerequisite first.
+You can download prebuilt binaries of _CacheStitcher_ for 64bit Linux and Windows. For each system you have to install one necessary prerequisite first.
 
 ### Ubuntu
 
