@@ -1,4 +1,4 @@
-# RdpCacheStitcher
+# CacheStitcher
 
 _RdpCacheStitcher_ is a tool that supports forensic analysts in reconstructing useful images out of RDP cache bitmaps. Using raw RDP cache tile bitmaps extracted by tools like e.g. ANSSI's _BMC-Tools_ (https://github.com/ANSSI-FR/bmc-tools) as input, it provides a graphical user interface and several placement heuristics for stitching tiles together so that meaningful images or even full screenshots can be reconstructed.
 
